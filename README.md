@@ -18,7 +18,7 @@
 - :school: I am a `Junior` at [Analisis en Sistemas y Programacion](https://www.aiep.cl/admision/carrera/tecnico-en-programacion-y-analisis-de-sistemas/) in [AIEP](https://www.aiep.cl/)
 - :technologist: **Currently  studying backend** in Python **&** different frameworks 
 - :boom: You can visit my web site (soon)
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:nceacontacto@gmail.com)
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=nceacontacto;color=EA4335&amp;style=flat-square)](mailto:nceacontacto@gmail.com)
 - :nerd_face: **Great achievements come from perseverance..**
 
 <br>
