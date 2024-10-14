@@ -15,7 +15,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Junior` at [Analisis en Sistemas y Programacion](https://www.aiep.cl/admision/carrera/tecnico-en-programacion-y-analisis-de-sistemas/) in [AIEP](https://www.aiep.cl/)
+- :school: I am a `student` at [Analisis en Sistemas y Programacion](https://www.aiep.cl/admision/carrera/tecnico-en-programacion-y-analisis-de-sistemas/) in [AIEP](https://www.aiep.cl/)
 - :technologist: **Currently  studying backend** in Python **&** different frameworks 
 - :boom: You can visit my web site (soon)
 - :nerd_face: **Great achievements come from perseverance..**
